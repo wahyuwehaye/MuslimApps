@@ -16,7 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".MainActivity"></activity>
+=======
+        <activity android:name=".MainActivity" />
+        <activity android:name=".HadistActivity"></activity>
+>>>>>>> a8d9a8a310b22bc0d472d275aac8dc867e159d31
 
         <meta-data
             android:name="preloaded_fonts"

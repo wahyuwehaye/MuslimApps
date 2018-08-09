@@ -2,6 +2,9 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/amatica_sc</item>
+<<<<<<< HEAD
         <item>@font/bubblegum_sans</item>
+=======
+>>>>>>> a8d9a8a310b22bc0d472d275aac8dc867e159d31
     </array>
 </resources>
